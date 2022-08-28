@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="230" height="66" viewBox="0 0 230 66">
+  <g id="Group_28" data-name="Group 28" transform="translate(-402 -5883)">
+    <g id="Group_21" data-name="Group 21" transform="translate(0 -9)">
+      <g id="Ellipse_34" data-name="Ellipse 34" transform="translate(402 5892)" fill="none" stroke="#dcdce3" stroke-width="1">
+        <circle cx="33" cy="33" r="33" stroke="none"/>
+        <circle cx="33" cy="33" r="32.5" fill="none"/>
+      </g>
+      <g id="Icon_feather-instagram" data-name="Icon feather-instagram" transform="translate(422.126 5912.125)">
+        <path id="Path_8" data-name="Path 8" d="M7.937,3h9.874a4.937,4.937,0,0,1,4.937,4.937v9.874a4.937,4.937,0,0,1-4.937,4.937H7.937A4.937,4.937,0,0,1,3,17.811V7.937A4.937,4.937,0,0,1,7.937,3Z" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <path id="Path_9" data-name="Path 9" d="M19.922,15.305a3.95,3.95,0,1,1-3.328-3.328A3.95,3.95,0,0,1,19.922,15.305Z" transform="translate(-3.098 -3.053)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <path id="Path_10" data-name="Path 10" d="M26.25,9.75h0" transform="translate(-7.945 -2.307)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+    </g>
+    <g id="Group_22" data-name="Group 22" transform="translate(82 -9)">
+      <g id="Ellipse_34-2" data-name="Ellipse 34" transform="translate(402 5892)" fill="none" stroke="#dcdce3" stroke-width="1">
+        <circle cx="33" cy="33" r="33" stroke="none"/>
+        <circle cx="33" cy="33" r="32.5" fill="none"/>
+      </g>
+      <path id="Icon_awesome-twitter" data-name="Icon awesome-twitter" d="M22.482,8.453c.016.223.016.445.016.668A14.511,14.511,0,0,1,7.886,23.732,14.512,14.512,0,0,1,0,21.427a10.624,10.624,0,0,0,1.24.064A10.285,10.285,0,0,0,7.616,19.3a5.145,5.145,0,0,1-4.8-3.561,6.476,6.476,0,0,0,.97.079,5.432,5.432,0,0,0,1.351-.175A5.136,5.136,0,0,1,1.018,10.6v-.064a5.172,5.172,0,0,0,2.321.652,5.143,5.143,0,0,1-1.59-6.869A14.6,14.6,0,0,0,12.338,9.693a5.8,5.8,0,0,1-.127-1.177A5.14,5.14,0,0,1,21.1,5a10.111,10.111,0,0,0,3.259-1.24A5.122,5.122,0,0,1,22.1,6.592,10.3,10.3,0,0,0,25.057,5.8a11.039,11.039,0,0,1-2.576,2.655Z" transform="translate(423.671 5911.444)"/>
+    </g>
+    <g id="Group_23" data-name="Group 23" transform="translate(164 -9)">
+      <g id="Ellipse_34-3" data-name="Ellipse 34" transform="translate(402 5892)" fill="none" stroke="#dcdce3" stroke-width="1">
+        <circle cx="33" cy="33" r="33" stroke="none"/>
+        <circle cx="33" cy="33" r="32.5" fill="none"/>
+      </g>
+      <path id="Icon_awesome-facebook-f" data-name="Icon awesome-facebook-f" d="M13.647,13.529l.668-4.353H10.138V6.352A2.176,2.176,0,0,1,12.592,4h1.9V.294A23.155,23.155,0,0,0,11.121,0C7.681,0,5.433,2.085,5.433,5.859V9.176H1.609v4.353H5.433V24.052h4.706V13.529Z" transform="translate(426.95 5912.974)"/>
+    </g>
+  </g>
+</svg>
